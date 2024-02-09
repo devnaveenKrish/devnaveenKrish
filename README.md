@@ -21,12 +21,14 @@ Happy coding! ✨
 
 > Tools and Technologies that i have worked with and i am interested in: 
 
-<img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="Python" width="140"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="140"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="140"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Django_logo.svg" alt="Django" width="140"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Boostrap_logo.svg" alt="Bootstrap" width="140"/>
-<img src="https://www.figma.com/static/images/favicons/favicon-32x32.png" alt="Figma" width="140"/>
+<table>
+  <tr>
+    <td align="center"><img src="https://example.com/image1.jpg" width="100px" alt="Image 1"/><br /><sub><b>Image 1</b></sub></td>
+    <td align="center"><img src="https://example.com/image2.jpg" width="100px" alt="Image 2"/><br /><sub><b>Image 2</b></sub></td>
+    <td align="center"><img src="https://example.com/image3.jpg" width="100px" alt="Image 3"/><br /><sub><b>Image 3</b></sub></td>
+    <td align="center"><img src="https://example.com/image4.jpg" width="100px" alt="Image 4"/><br /><sub><b>Image 4</b></sub></td>
+  </tr>
+</table>
 
 
 
