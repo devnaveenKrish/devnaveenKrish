@@ -1,8 +1,8 @@
 ![Hi there! I am Naveen Krishna](https://github.com/devnaveenKrish/devnaveenKrish/blob/main/GITHUBCOVER.gif)
 
-<p align="center">
+<center><p>
   <h1>About Me</h1>
-</p>
+</p></center>
 👋 Hello, World! I'm [Your Name], a passionate [Your Profession/Role] with a love for [Your Interests/Technologies].
 
 🚀 Aspiring [Your Aspirations], I constantly explore the realms of [Key Technologies/Frameworks] to build innovative solutions. My journey in the world of coding began [Mention any milestone or significant event].
