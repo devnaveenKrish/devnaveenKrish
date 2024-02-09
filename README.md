@@ -13,6 +13,6 @@
 
 📚 When not coding, I indulge in Sports and Music. Let's connect and build something amazing together!
 
-📫 Reach out to me at <a href=""> devnaveenkrishna@gmail.com </a> or find me on <a href="www.linkedin.com/in/naveen-krishna-667429281">Linked</a>.
+📫 Reach out to me at <a href=""> devnaveenkrishna@gmail.com </a> or find me on <a href="https://www.linkedin.com/in/naveen-krishna-667429281/">Linked</a>.
 
 Happy coding! ✨
