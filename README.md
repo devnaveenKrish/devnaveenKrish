@@ -21,7 +21,7 @@ Happy coding! ✨
 
 > Tools and Technologies that i have worked with and i am interested in: 
 
-<table>
+<table align="center">
   <tr>
     <td align="center"><img src="https://example.com/image1.jpg" width="100px" alt="Image 1"/><br /><sub><b>Image 1</b></sub></td>
     <td align="center"><img src="https://example.com/image2.jpg" width="100px" alt="Image 2"/><br /><sub><b>Image 2</b></sub></td>
