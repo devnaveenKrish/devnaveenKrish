@@ -23,12 +23,14 @@ Happy coding! ✨
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://example.com/image1.jpg" width="100px" alt="Image 1"/><br /><sub><b>Image 1</b></sub></td>
-    <td align="center"><img src="https://example.com/image2.jpg" width="100px" alt="Image 2"/><br /><sub><b>Image 2</b></sub></td>
-    <td align="center"><img src="https://example.com/image3.jpg" width="100px" alt="Image 3"/><br /><sub><b>Image 3</b></sub></td>
-    <td align="center"><img src="https://example.com/image4.jpg" width="100px" alt="Image 4"/><br /><sub><b>Image 4</b></sub></td>
+    <td align="center"><img src="https://github.com/devnaveenKrish/devnaveenKrish/blob/main/pythonicon.jpeg" width="100px" alt="Image 4"/><br /><sub><b>Python</b></sub></td>
+    <td align="center"><img src="https://github.com/devnaveenKrish/devnaveenKrish/blob/main/djangoicon.png" width="100px" alt="Image 1"/><br /><sub><b>Django</b></sub></td>
+    <td align="center"><img src="https://github.com/devnaveenKrish/devnaveenKrish/blob/main/cssicon.jpeg" width="100px" alt="Image 2"/><br /><sub><b>CSS</b></sub></td>
+    <td align="center"><img src="https://github.com/devnaveenKrish/devnaveenKrish/blob/main/htmlicon.png" width="100px" alt="Image 3"/><br /><sub><b>HTML</b></sub></td>
+    <td align="center"><img src="https://github.com/devnaveenKrish/devnaveenKrish/blob/main/bslogo.jpeg" width="100px" alt="Image 4"/><br /><sub><b>Bootstrap</b></sub></td>
   </tr>
 </table>
+
 
 
 
