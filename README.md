@@ -21,3 +21,6 @@ Happy coding! ✨
 
 > Tools and Technologies that i have worked with and i am interested in: 
 
+<img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="Python" width="50"/>
+
+
