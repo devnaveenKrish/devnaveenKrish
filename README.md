@@ -3,16 +3,16 @@
 <center><p>
   <h1>About Me</h1>
 </p></center>
-👋 Hello, World! I'm [Your Name], a passionate [Your Profession/Role] with a love for [Your Interests/Technologies].
+👋 Hello, World! I'm Naveen Krishna, a passionate Web Developer with a love for Data driven insights.
 
-🚀 Aspiring [Your Aspirations], I constantly explore the realms of [Key Technologies/Frameworks] to build innovative solutions. My journey in the world of coding began [Mention any milestone or significant event].
+🚀 Aspiring Web Development and Data Science innovator, I constantly explore the realms of Web Tech and Machine Learning to build innovative solutions. I discovered the magic of coding when I successfully completed my first internship in a Universtiy..
 
-💻 On a daily basis, you'll find me diving deep into [Your Primary Tech Stack] and experimenting with new tools. I'm all about [Your Key Values or Principles], and I believe in the power of collaboration to create meaningful impact.
+💻 On a daily basis, you'll find me diving deep into the dynamic realms of web development and data science, where I thrive on crafting seamless user experiences and extracting insights from complex datasets.
 
-🌐 Currently, I'm contributing to [Current Projects/Repositories] where I [Brief Description of Your Contributions]. I enjoy solving problems and turning ideas into elegant, efficient code.
+🌐 Currently, I'm contributing to a deep learnig project where I unlock the abilities of Data driven insights with Web Technologies. I enjoy solving problems and turning ideas into elegant, efficient code.
 
-📚 When not coding, I indulge in [Hobbies/Interests] and love [Any Personal Quirk or Detail]. Let's connect and build something amazing together!
+📚 When not coding, I indulge in Sports and Music. Let's connect and build something amazing together!
 
-📫 Reach out to me at [Your Email] or find me on [Other Social Media/Platforms].
+📫 Reach out to me at <a href=""> devnaveenkrishna@gmail.com </a> or find me on <a href="www.linkedin.com/in/naveen-krishna-667429281">Linked</a>.
 
 Happy coding! ✨
