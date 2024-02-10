@@ -30,7 +30,7 @@ Happy coding! ✨
     <td align="center"><img src="https://github.com/devnaveenKrish/devnaveenKrish/blob/main/bslogo.jpeg" width="100px" alt="Image 4"/><br /><sub><b>Bootstrap</b></sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://www.figma.com/static/images/favicons/favicon-32x32.png" alt="Figma" width="50"/><br /><sub><b>Bootstrap</b></sub></td>
+    <td align="center"><img src="https://www.figma.com/static/images/favicons/favicon-32x32.png" alt="Figma Logo"/><br /><sub><b>Bootstrap</b></sub></td>
   </tr>
    
 
